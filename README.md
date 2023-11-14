@@ -8,8 +8,10 @@
 
 **ARUNA B**
 
-**DEVISRI S**      
+**DEVISRI S**
+
 **KATHIJA FYROSE FATHIMA B**
+
 **MADUMITHA R**
 
 **Academic year : 2023-2024**
@@ -340,7 +342,7 @@ Dependencies include external libraries, APIs, and third-party services for feat
 1. **New Feature Development:** The development team shall plan and implement new features based on user demand and market trends.
 
    **GITHUB LINK**
-   ARUNA B : @Aruna-124
+   ARUNA B : https://github.com/Aruna-1246
    DEVISRI : @4009-Devisri
    KATHIJA FYROSE FATHIMA B : @4026-kathija
    MADUMITHA R: @madumitha2711
