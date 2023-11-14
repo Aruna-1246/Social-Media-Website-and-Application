@@ -343,8 +343,11 @@ Dependencies include external libraries, APIs, and third-party services for feat
 
    **GITHUB LINK**
    ARUNA B : https://github.com/Aruna-1246
-   DEVISRI : @4009-Devisri
-   KATHIJA FYROSE FATHIMA B : @4026-kathija
-   MADUMITHA R: @madumitha2711
+   
+   DEVISRI : https://github.com/4009-Devisri
+   
+   KATHIJA FYROSE FATHIMA B : https://github.com/4026-kathija
+   
+   MADUMITHA R: https://github.com/Aruna-1246/madumitha2711
 
 [ref1]: Aspose.Words.a0637858-4cf9-416d-b935-6fcb62415a1f.001.png
